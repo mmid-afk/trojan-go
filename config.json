@@ -1,0 +1,13 @@
+{
+  "run_type": "server",
+  "local_addr": "0.0.0.0",
+  "local_port": 8080,
+  "password": ["1234561995"],
+  "websocket": {
+    "enabled": true,
+    "path": "/trojan"
+  },
+  "ssl": {
+    "enabled": false
+  }
+}
